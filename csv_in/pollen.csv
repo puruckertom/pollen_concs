@@ -1,0 +1,40 @@
+Chemical,Citation,Crop,Application  rate (lb a.i./A),Nectar (mg a.i./kg),Pollen (mg a.i./kg)
+Imidacloprid,Dively and Kamel 2012,Pumpkin,0.027,0.026,0.348
+Imidacloprid,Dively and Kamel 2012,Pumpkin,0.251,0.045,0.226
+Imidacloprid,Dively and Kamel 2012,Pumpkin,0.377,0.047,0.289
+Imidacloprid,Dively and Kamel 2012,Pumpkin,0.377,0.061,0.342
+Imidacloprid,Dively and Kamel 2012,Pumpkin,0.027,,
+Imidacloprid,Dively and Kamel 2012,Pumpkin,0.251,0.027,0.095
+Imidacloprid,Dively and Kamel 2012,Pumpkin,0.377,0.042,0.117
+Imidacloprid,Stoner and Eitzer 2012,Squash,0.319,0.044,0.088
+Imidacloprid,Stoner and Eitzer 2012,Squash,0.367,0.038,0.076
+Imidacloprid,Beedle and Harbin 2011,Cotton,0.063,1.048,
+Imidacloprid,Freeseman and Harbin 2011,Tomato,0.25,,0.216
+Imidacloprid,Eggen et al. 2013,Rape,0.892,0.174,0.123
+IN-J9Z38,Dinter and Samel_2014_Int_Symposium_ICP_PR_BeeProtectionGroup,Melon,0.401,0.5031,0.012
+IN-K5A78,Dinter and Samel_2014_Int_Symposium_ICP_PR_BeeProtectionGroup,Melon,0.401,,0.012
+Imidacloprid,Gould and Jerkins 2015,Tomato,0.38,,0.521
+Imidacloprid,Beedle 2012,Melon,0.325333,0.0163,0.037
+Imidacloprid,Beedle 2012,Melon,0.310833,0.0257,0.103
+Imidacloprid,Byrneetal. 2011,Orange,0.5,0.0424,
+Imidacloprid,Byrneetal. 2011,Orange,0.5,0.0351,
+Imidacloprid,Byrneetal. 2011,Orange,0.5,0.1456,
+Imidacloprid,Byrneetal. 2011,Oranges and Tangerines,0.25,0.0377,0.041
+Imidacloprid,Byrneetal. 2011,Oranges and Tangerines,0.25,0.0304,0.041
+Imidacloprid,Byrneetal. 2011,Oranges and Tangerines,0.25,0.0465,0.041
+Imidacloprid,Byrneetal. 2011,Grape fruit,0.5,0.0477,
+Imidacloprid,Byrneetal. 2011,Valencia Oranges,0.5,0.0582,
+Imidacloprid,Byrneetal. 2011,Navel Oranges,0.5,0.0529,
+Imidacloprid,Gould et al. 2014,Blueberry,0.5,0.032,0.084
+Imidacloprid,Gould ei al.2012,Strawberry,0.5,,0.64
+Imidacloprid,Fischer and Jerkins 2015,Cotton,0.33,0.2518,0.109
+Oxamyl,Dively and Kamel 2012,Pumpkin,0.125,0,0
+Oxamyl,Dively and Kamel 2012,Pumpkin,0.125,0,0
+Thiamethoxam,Dively and Kamel 2012,Pumpkin,0.171,0.109,0.772
+Thiamethoxam,Dively and Kamel 2012,Pumpkin,0.171,0.088,0.246
+Thiamethoxam,Stoner and Eitzer 2012,Squash,0.125,0.16,0.28
+Thiamethoxam,Stoner and Eitzer 2012,Squash,0.128,0.157,0.274
+Dimethoate,Lord et al. 1968,Fuchsia,17,0.284,
+Dimethoate,Lord et al. 1968,Nasturtium,17,0.074,
+Cyantraniliprole,Dinter and Samel_2014_Int_Symposium_ICP_PR_BeeProtectionGroup,Melon,0.401,,0.374
+Cyantraniliprole,Dinter and Samel_2014_Int_Symposium_ICP_PR_BeeProtectionGroup,Tomato,0.268,0.0979,0.045
