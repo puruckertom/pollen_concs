@@ -1,3 +1,5 @@
+#sumathy was here
+
 read.csv(file.choose(),header=TRUE)->pollen ##load csv file contains pesticide name, pollen and residues
 
 boxplot(pollen$Pollen~pollen$Chemical, main="Measured concentration of pesticideds in pollen of crops treated with pesticides via soil applications", 
