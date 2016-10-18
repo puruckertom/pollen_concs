@@ -1,0 +1,40 @@
+Chemical,Citation,Crop,Application  rate (lb a.i./A),Concentration Nectar (mg a.i./kg),Concentration Pollen  (mg a.i./kg),Normalized Concentration Nectar  (mg a.i./kg per 1 lb a.i./A),Normalized Concentration Pollen (mg a.i./kg per 1 lb a.i./A),Field location,Application Type,Type of insecticide,Study period,Comments
+Imidacloprid,Dively and Kamel 2012,Pumpkin,0.027,0.001,0.009,0.026,0.348,"Central Maryland Research and Education Center, Beltsville Facility, Beltsville, MD, USA",Bedding drench,Neonicotinoids_Systemic insecticides,2009,
+Imidacloprid,Dively and Kamel 2012,Pumpkin,0.251,0.011,0.057,0.045,0.226,"Central Maryland Research and Education Center, Beltsville Facility, Beltsville, MD, USA",Transplant(low),Neonicotinoids_Systemic insecticides,2009,
+Imidacloprid,Dively and Kamel 2012,Pumpkin,0.377,0.018,0.109,0.047,0.289,"Central Maryland Research and Education Center, Beltsville Facility, Beltsville, MD, USA",Transplant (high),Neonicotinoids_Systemic insecticides,2009,
+Imidacloprid,Dively and Kamel 2012,Pumpkin,0.377,0.023,0.129,0.061,0.342,"Central Maryland Research and Education Center, Beltsville Facility, Beltsville, MD, USA",Transplant-drip,Neonicotinoids_Systemic insecticides,2009,
+Imidacloprid,Dively and Kamel 2012,Pumpkin,0.027,0,0,0,0,"Central Maryland Research and Education Center, Beltsville Facility, Beltsville, MD, USA",Bedding drench,Neonicotinoids_Systemic insecticides,2010,
+Imidacloprid,Dively and Kamel 2012,Pumpkin,0.251,0.007,0.024,0.027,0.095,"Central Maryland Research and Education Center, Beltsville Facility, Beltsville, MD, USA",Transplant (low),Neonicotinoids_Systemic insecticides,2010,
+Imidacloprid,Dively and Kamel 2012,Pumpkin,0.377,0.016,0.044,0.042,0.117,"Central Maryland Research and Education Center, Beltsville Facility, Beltsville, MD, USA",Transplant-drip,Neonicotinoids_Systemic insecticides,2010,
+Oxamyl,Dively and Kamel 2012,Pumpkin,0.125,0,0,0,0,"Central Maryland Research and Education Center, Beltsville Facility, Beltsville, MD, USA",Two drip,Neonicotinoids_Systemic insecticides,2010,
+Oxamyl,Dively and Kamel 2012,Pumpkin,0.125,0,0,0,0,"Central Maryland Research and Education Center, Beltsville Facility, Beltsville, MD, USA",Three drip,Neonicotinoids_Systemic insecticides,2010,
+Thiamethoxam,Dively and Kamel 2012,Pumpkin,0.171,0.019,0.132,0.109,0.772,"Central Maryland Research and Education Center, Beltsville Facility, Beltsville, MD, USA",Transplant,Neonicotinoids_Systemic insecticides,2010,
+Thiamethoxam,Dively and Kamel 2012,Pumpkin,0.171,0.015,0.042,0.088,0.246,"Central Maryland Research and Education Center, Beltsville Facility, Beltsville, MD, USA",Transplant,Neonicotinoids_Systemic insecticides,2010,
+Imidacloprid,Stoner and Eitzer 2012,Squash,0.319,0.014,0.028,0.044,0.088,"The Connecticut Agricultural Experiment Station, New Haven, Connecticut, USA",Sprayed into soil before seeding and Transplant drip,Neonicotinoids_Systemic insecticides,2009,"Only one value of concentration was presented across years, treatments and varieties. Authors reported that there were no significant differences in pesticide concentration in pollen with treatment in either year. "
+Imidacloprid,Stoner and Eitzer 2012,Squash,0.367,0.014,0.028,0.038,0.076,"The Connecticut Agricultural Experiment Station, New Haven, Connecticut, USA",Sprayed into soil before seeding and Transplant drip,Neonicotinoids_Systemic insecticides,2010,
+Thiamethoxam,Stoner and Eitzer 2012,Squash,0.125,0.02,0.035,0.16,0.28,"The Connecticut Agricultural Experiment Station, New Haven, Connecticut, USA",Sprayed into soil before seeding and Transplant drip,Neonicotinoids_Systemic insecticides,2009,
+Thiamethoxam,Stoner and Eitzer 2012,Squash,0.128,0.02,0.035,0.157,0.274,"The Connecticut Agricultural Experiment Station, New Haven, Connecticut, USA",Sprayed into soil before seeding and Transplant drip,Neonicotinoids_Systemic insecticides,2010,
+Dimethoate,Lord et al. 1968,Fuchsia,17,4.82,,0.284,,NA,Applied into soil,Organophosphates,1968,Pot experiment- greenhouse. Values copied from proposed risk assessment white paper
+Dimethoate,Lord et al. 1968,Nasturtium,17,1.26,,0.074,,NA,Applied into soil,Organophosphates,1968,Pot experiment- greenhouse. Values copied from proposed risk assessment white paper
+Imidacloprid,Beedle and Harbin 2011,Cotton,0.063,0.066,,1.048,,NA,Applied into soil,Neonicotinoids_Systemic insecticides,,
+Imidacloprid,Freeseman and Harbin 2011,Tomato,0.25,,0.054,,0.216,NA,Applied into soil,Neonicotinoids_Systemic insecticides,,Values copied from proposed risk assessment white paper
+Imidacloprid,Eggen et al. 2013,Rape,0.892,0.155,0.11,0.174,0.123,Norway,Seed coated,Neonicotinoids_Systemic insecticides,2012,
+Cyantraniliprole,Dinter and Samel_2014_Int_Symposium_ICP_PR_BeeProtectionGroup,Melon,0.401,,0.15,,0.374,Spain,Soil mixing,systemic anthranilic diamide insecticide,2010,Lab
+Cyantraniliprole,Dinter and Samel_2014_Int_Symposium_ICP_PR_BeeProtectionGroup,Tomato,0.268,0.026,0.012,0.098,0.045,Spain,Drip ,systemic anthranilic diamide insecticide,2010,Field/ greenhouse
+IN-J9Z38,Dinter and Samel_2014_Int_Symposium_ICP_PR_BeeProtectionGroup,Melon,0.401,0.202,0.005,0.503,0.012,Spain,Soil mixing,Cyantraniliprole metabolites systemic anthranilic diamide insecticide,2010,Lab
+IN-K5A78,Dinter and Samel_2014_Int_Symposium_ICP_PR_BeeProtectionGroup,Melon,0.401,,0.005,,0.012,Spain,Soil mixing,Cyantraniliprole metabolites systemic anthranilic diamide insecticide,2010,Lab
+Imidacloprid,Gould and Jerkins 2015,Tomato,0.38,,0.198,,0.521,CA,Soil drip/ drench,Neonicotinoids_Systemic insecticides,2013-2014,Bee collected pollen
+Imidacloprid,Beedle 2012,Melon,0.325,0.005,0.012,0.016,0.037,CA,Soil drip/ drench,Neonicotinoids_Systemic insecticides,2008-2012,hive deposited nectar and bee collected pollen
+Imidacloprid,Beedle 2012,Melon,0.311,0.008,0.032,0.026,0.103,CA,Soil drip/ drench,Neonicotinoids_Systemic insecticides,2008-2012,hive deposited nectar and bee collected pollen
+Imidacloprid,Byrneetal. 2011,Orange,0.5,0.021,,0.042,,CA,Soil drip/ drench,Neonicotinoids_Systemic insecticides,2009,Weekly irrigation
+Imidacloprid,Byrneetal. 2011,Orange,0.5,0.018,,0.035,,CA,Soil drip/ drench,Neonicotinoids_Systemic insecticides,2009,Weekly irrigation
+Imidacloprid,Byrneetal. 2011,Orange,0.5,0.073,,0.146,,CA,Soil drip/ drench,Neonicotinoids_Systemic insecticides,2009,Higher conc. in hive nectar may be partly due to water loss
+Imidacloprid,Byrneetal. 2011,Oranges and Tangerines,0.25,0.009,0.01,0.038,0.041,CA,Soil drip/ drench,Neonicotinoids_Systemic insecticides,2009,Half of maximum single application
+Imidacloprid,Byrneetal. 2011,Oranges and Tangerines,0.25,0.008,0.01,0.03,0.041,CA,Soil drip/ drench,Neonicotinoids_Systemic insecticides,2009,
+Imidacloprid,Byrneetal. 2011,Oranges and Tangerines,0.25,0.012,0.01,0.047,0.041,CA,Soil drip/ drench,Neonicotinoids_Systemic insecticides,2009,
+Imidacloprid,Byrneetal. 2011,Grape fruit,0.5,0.024,,0.048,,CA,Soil drip/ drench,Neonicotinoids_Systemic insecticides,2010,
+Imidacloprid,Byrneetal. 2011,Valencia Oranges,0.5,0.029,,0.058,,CA,Soil drip/ drench,Neonicotinoids_Systemic insecticides,2010,
+Imidacloprid,Byrneetal. 2011,Navel Oranges,0.5,0.026,,0.053,,CA,Soil drip/ drench,Neonicotinoids_Systemic insecticides,2010,
+Imidacloprid,Gould et al. 2014,Blueberry,0.5,0.016,0.042,0.032,0.084,CA,Banded soil application,Neonicotinoids_Systemic insecticides,"2012, 2013",
+Imidacloprid,Gould ei al.2012,Strawberry,0.5,,0.32,,0.64,CA,Presumed soil application,Neonicotinoids_Systemic insecticides,"20,102,011",Coarse soil
+Imidacloprid,Fischer and Jerkins 2015,Cotton,0.33,0.083,0.036,0.252,0.109,CA,In furrow spary,Neonicotinoids_Systemic insecticides,"2013, 2014",

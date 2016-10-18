@@ -1,0 +1,40 @@
+,CHE,HDI.Rank,PESTI,NECT,CROP,POLLEN,NNECT,NPOLLEN
+1,Imidacloprid,1,0,0.001,Pumpkin,0.009,0.026,0.348
+5,Imidacloprid,2,0.027,0,Pumpkin,0.057,0.045,0.226
+18,Imidacloprid,3,0.063,0.066,Cotton,0.109,0.047,0.289
+8,Oxamyl,4,0.125,0,Pumpkin,0.129,0.061,0.342
+9,Oxamyl,5,0.125,0,Pumpkin,0,0,0
+14,Thiamethoxam,6,0.125,0.02,Squash,0.024,0.027,0.095
+15,Thiamethoxam,7,0.128,0.02,Squash,0.044,0.042,0.117
+10,Thiamethoxam,8,0.171,0.019,Pumpkin,0,0,0
+11,Thiamethoxam,9,0.171,0.015,Pumpkin,0,0,0
+19,Imidacloprid,10,0.25,,Tomato,0.132,0.109,0.772
+31,Imidacloprid,11,0.25,0.009,Oranges and Tangerines,0.042,0.088,0.246
+32,Imidacloprid,12,0.25,0.008,Oranges and Tangerines,0.028,0.044,0.088
+33,Imidacloprid,13,0.25,0.012,Oranges and Tangerines,0.028,0.038,0.076
+2,Imidacloprid,14,0.251,0.011,Pumpkin,0.035,0.16,0.28
+6,Imidacloprid,15,0.251,0.007,Pumpkin,0.035,0.157,0.274
+22,Cyantraniliprole,16,0.268,0.026,Tomato,,0.284,
+27,Imidacloprid,17,0.311,0.008,Melon,,0.074,
+12,Imidacloprid,18,0.319,0.014,Squash,,1.048,
+26,Imidacloprid,19,0.325,0.005,Melon,0.054,,0.216
+39,Imidacloprid,20,0.33,0.083,Cotton,0.11,0.174,0.123
+13,Imidacloprid,21,0.367,0.014,Squash,0.15,,0.374
+3,Imidacloprid,22,0.377,0.018,Pumpkin,0.012,0.098,0.045
+4,Imidacloprid,23,0.377,0.023,Pumpkin,0.005,0.503,0.012
+7,Imidacloprid,24,0.377,0.016,Pumpkin,0.005,,0.012
+25,Imidacloprid,25,0.38,,Tomato,0.198,,0.521
+21,Cyantraniliprole,26,0.401,,Melon,0.012,0.016,0.037
+23,IN-J9Z38,27,0.401,0.202,Melon,0.032,0.026,0.103
+24,IN-K5A78,28,0.401,,Melon,,0.042,
+28,Imidacloprid,29,0.5,0.021,Orange,,0.035,
+29,Imidacloprid,30,0.5,0.018,Orange,,0.146,
+30,Imidacloprid,31,0.5,0.073,Orange,0.01,0.038,0.041
+34,Imidacloprid,32,0.5,0.024,Grape fruit,0.01,0.03,0.041
+35,Imidacloprid,33,0.5,0.029,Valencia Oranges,0.01,0.047,0.041
+36,Imidacloprid,34,0.5,0.026,Navel Oranges,,0.048,
+37,Imidacloprid,35,0.5,0.016,Blueberry,,0.058,
+38,Imidacloprid,36,0.5,,Strawberry,,0.053,
+20,Imidacloprid,37,0.892,0.155,Rape,0.042,0.032,0.084
+16,Dimethoate,38,17,4.82,Fuchsia,0.32,,0.64
+17,Dimethoate,39,17,1.26,Nasturtium,0.036,0.252,0.109

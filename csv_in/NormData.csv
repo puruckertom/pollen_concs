@@ -1,0 +1,79 @@
+CHEM,CROP,MATRIX,CHE,INT,RESI
+Imidacloprid,Pumpkin,NECT,Imi,ImiNECT,0.026
+Imidacloprid,Pumpkin,NECT,Imi,ImiNECT,0.045
+Imidacloprid,Cotton,NECT,Imi,ImiNECT,0.047
+Oxamyl,Pumpkin,NECT,Oxa,OxaNECT,0.061
+Oxamyl,Pumpkin,NECT,Oxa,OxaNECT,0
+Thiamethoxam,Squash,NECT,Thi,ThiNECT,0.027
+Thiamethoxam,Squash,NECT,Thi,ThiNECT,0.042
+Thiamethoxam,Pumpkin,NECT,Thi,ThiNECT,0
+Thiamethoxam,Pumpkin,NECT,Thi,ThiNECT,0
+Imidacloprid,Tomato,NECT,Imi,ImiNECT,0.109
+Imidacloprid,Oranges and Tangerines,NECT,Imi,ImiNECT,0.088
+Imidacloprid,Oranges and Tangerines,NECT,Imi,ImiNECT,0.044
+Imidacloprid,Oranges and Tangerines,NECT,Imi,ImiNECT,0.038
+Imidacloprid,Pumpkin,NECT,Imi,ImiNECT,0.16
+Imidacloprid,Pumpkin,NECT,Imi,ImiNECT,0.157
+Cyantraniliprole,Tomato,NECT,Cya,CyaNECT,0.284
+Imidacloprid,Melon,NECT,Imi,ImiNECT,0.074
+Imidacloprid,Squash,NECT,Imi,ImiNECT,1.048
+Imidacloprid,Melon,NECT,Imi,ImiNECT,
+Imidacloprid,Cotton,NECT,Imi,ImiNECT,0.174
+Imidacloprid,Squash,NECT,Imi,ImiNECT,
+Imidacloprid,Pumpkin,NECT,Imi,ImiNECT,0.098
+Imidacloprid,Pumpkin,NECT,Imi,ImiNECT,0.503
+Imidacloprid,Pumpkin,NECT,Imi,ImiNECT,
+Imidacloprid,Tomato,NECT,Imi,ImiNECT,
+Cyantraniliprole,Melon,NECT,Cya,CyaNECT,0.016
+IN-J9Z38,Melon,NECT,IN-,IN-NECT,0.026
+IN-K5A78,Melon,NECT,IN-,IN-NECT,0.042
+Imidacloprid,Orange,NECT,Imi,ImiNECT,0.035
+Imidacloprid,Orange,NECT,Imi,ImiNECT,0.146
+Imidacloprid,Orange,NECT,Imi,ImiNECT,0.038
+Imidacloprid,Grape fruit,NECT,Imi,ImiNECT,0.03
+Imidacloprid,Valencia Oranges,NECT,Imi,ImiNECT,0.047
+Imidacloprid,Navel Oranges,NECT,Imi,ImiNECT,0.048
+Imidacloprid,Blueberry,NECT,Imi,ImiNECT,0.058
+Imidacloprid,Strawberry,NECT,Imi,ImiNECT,0.053
+Imidacloprid,Rape,NECT,Imi,ImiNECT,0.032
+Dimethoate,Fuchsia,NECT,Dim,DimNECT,
+Dimethoate,Nasturtium,NECT,Dim,DimNECT,0.252
+Imidacloprid,Pumpkin,POLL,Imi,ImiPOLL,0.348
+Imidacloprid,Pumpkin,POLL,Imi,ImiPOLL,0.226
+Imidacloprid,Cotton,POLL,Imi,ImiPOLL,0.289
+Oxamyl,Pumpkin,POLL,Oxa,OxaPOLL,0.342
+Oxamyl,Pumpkin,POLL,Oxa,OxaPOLL,0
+Thiamethoxam,Squash,POLL,Thi,ThiPOLL,0.095
+Thiamethoxam,Squash,POLL,Thi,ThiPOLL,0.117
+Thiamethoxam,Pumpkin,POLL,Thi,ThiPOLL,0
+Thiamethoxam,Pumpkin,POLL,Thi,ThiPOLL,0
+Imidacloprid,Tomato,POLL,Imi,ImiPOLL,0.772
+Imidacloprid,Oranges and Tangerines,POLL,Imi,ImiPOLL,0.246
+Imidacloprid,Oranges and Tangerines,POLL,Imi,ImiPOLL,0.088
+Imidacloprid,Oranges and Tangerines,POLL,Imi,ImiPOLL,0.076
+Imidacloprid,Pumpkin,POLL,Imi,ImiPOLL,0.28
+Imidacloprid,Pumpkin,POLL,Imi,ImiPOLL,0.274
+Cyantraniliprole,Tomato,POLL,Cya,CyaPOLL,
+Imidacloprid,Melon,POLL,Imi,ImiPOLL,
+Imidacloprid,Squash,POLL,Imi,ImiPOLL,
+Imidacloprid,Melon,POLL,Imi,ImiPOLL,0.216
+Imidacloprid,Cotton,POLL,Imi,ImiPOLL,0.123
+Imidacloprid,Squash,POLL,Imi,ImiPOLL,0.374
+Imidacloprid,Pumpkin,POLL,Imi,ImiPOLL,0.045
+Imidacloprid,Pumpkin,POLL,Imi,ImiPOLL,0.012
+Imidacloprid,Pumpkin,POLL,Imi,ImiPOLL,0.012
+Imidacloprid,Tomato,POLL,Imi,ImiPOLL,0.521
+Cyantraniliprole,Melon,POLL,Cya,CyaPOLL,0.037
+IN-J9Z38,Melon,POLL,IN-,IN-POLL,0.103
+IN-K5A78,Melon,POLL,IN-,IN-POLL,
+Imidacloprid,Orange,POLL,Imi,ImiPOLL,
+Imidacloprid,Orange,POLL,Imi,ImiPOLL,
+Imidacloprid,Orange,POLL,Imi,ImiPOLL,0.041
+Imidacloprid,Grape fruit,POLL,Imi,ImiPOLL,0.041
+Imidacloprid,Valencia Oranges,POLL,Imi,ImiPOLL,0.041
+Imidacloprid,Navel Oranges,POLL,Imi,ImiPOLL,
+Imidacloprid,Blueberry,POLL,Imi,ImiPOLL,
+Imidacloprid,Strawberry,POLL,Imi,ImiPOLL,
+Imidacloprid,Rape,POLL,Imi,ImiPOLL,0.084
+Dimethoate,Fuchsia,POLL,Dim,DimPOLL,0.64
+Dimethoate,Nasturtium,POLL,Dim,DimPOLL,0.109
